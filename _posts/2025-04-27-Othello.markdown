@@ -2,12 +2,10 @@
 layout: post
 title: Othello
 date: 2025-04-27 12:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Création d'une IA pour le jeu Othello. # Add post description (optional)
 img: othello_img.jpeg # Add image post (optional)
 tags: [Jeu, Python, IA] # add tag
 ---
-
-### - Othelllo
 
 **Description:** L’objectif de ce projet est la création d'une IA capable de jouer au jeu [Othello](https://fr.wikipedia.org/wiki/Othello_(jeu)). En utilisant l'algorithme [minimax](https://fr.wikipedia.org/wiki/Algorithme_minimax) et son optimisation l'[élagage αβ](https://fr.wikipedia.org/wiki/%C3%89lagage_alpha-b%C3%AAta) on a été en mesure réalisé un adversaire intelligent. L'ensemble du jeu et de l'IA on été codé en python. 
 
