@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Jeu, Rust]
 ---
 
-Création du jeu Astéroid en rust.
+Création du jeu Astéroid en rust.                                                             
 
 ### - Astéroids
 
